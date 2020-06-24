@@ -4,13 +4,13 @@ Thoughts on an undergraduate major in data science at U of Denver
 ## Learning Objectives
 
 1. Statistical acumen
-  - Statistics and Probability at "baby" Casella/Berger level
-  - Full quarter of regression at a minimum
-  - Observational vs Experimental studies (causal inference)
+    - Statistics and Probability at "baby" Casella/Berger level
+    - Full quarter of regression at a minimum
+    - Observational vs Experimental studies (causal inference)
 2. Computational skills 
-  - Focus on using computers as an integral tool
-  - Fundamental computing concepts such as loops, iterators, memory allocation, etc. 
-  - python based relying on Jupyter notebooks
+    - Focus on using computers as an integral tool
+    - Fundamental computing concepts such as loops, iterators, memory allocation, etc. 
+    - python based relying on Jupyter notebooks
 
 ## Market Research
 
