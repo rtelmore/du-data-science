@@ -14,6 +14,7 @@ Thoughts on an undergraduate major in data science at U of Denver
 
 ## Market Research
 
+To do:
 1. Job market
 2. Prep for grad school
 
