@@ -11,6 +11,7 @@ Thoughts on an undergraduate major in data science at U of Denver
     - Focus on using computers as an integral tool
     - Fundamental computing concepts such as loops, iterators, memory allocation, etc. 
     - python based relying on Jupyter notebooks
+3. Ethical, data-driven decision making
 
 ## Market Research
 
@@ -45,3 +46,5 @@ Which departments/groups at DU should be included in DS conversations?
 5. [Colorado State University](https://www.natsci.colostate.edu/data-science/)
     - Just in the College of Natural Sciences with Math, Stats, and CS
     - Obviously the proximinity to DU is a little troubling
+6. [University of British Columbia](https://datascience.ubc.ca)
+7. Johns Hopkins
